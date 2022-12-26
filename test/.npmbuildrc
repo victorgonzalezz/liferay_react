@@ -1,0 +1,13 @@
+{
+	"translatorTextKey": "",
+	"supportedLocales": [],
+	"liferayDir": "C:\\Program Files\\LiferayDeveloperPackage-CE-7.4.3.51-ga51\\liferay\\liferay-ce-portal-7.4.3.51-ga51",
+	"webpack": {
+		"rules": [
+			{
+				"test": "src\\\\.*\\.js$",
+				"use": "babel-loader"
+			}
+		]
+	}
+}
